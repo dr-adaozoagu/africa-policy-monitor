@@ -1,67 +1,67 @@
 {
   "http": {
     "africacdc-items": {
-      "checked": "2026-11-15T21:08:45+00:00",
+      "checked": "2026-11-15T21:58:43+00:00",
       "etag": null,
       "last_modified": null
     },
     "africacdc-khub": {
-      "checked": "2026-11-15T21:08:54+00:00",
+      "checked": "2026-11-15T21:58:51+00:00",
       "etag": null,
       "last_modified": null
     },
     "africacdc-news": {
-      "checked": "2026-11-15T21:08:41+00:00",
+      "checked": "2026-11-15T21:58:39+00:00",
       "etag": null,
       "last_modified": null
     },
     "africacdc-youth": {
-      "checked": "2026-11-15T21:08:58+00:00",
+      "checked": "2026-11-15T21:58:55+00:00",
       "etag": null,
       "last_modified": null
     },
     "au-decisions": {
-      "checked": "2026-11-15T21:08:29+00:00",
+      "checked": "2026-11-15T21:58:28+00:00",
       "etag": null,
-      "last_modified": "Sun, 15 Nov 2026 21:00:19 GMT"
+      "last_modified": "Sun, 15 Nov 2026 21:58:27 GMT"
     },
     "au-documents": {
-      "checked": "2026-11-15T21:08:35+00:00",
+      "checked": "2026-11-15T21:58:33+00:00",
       "etag": null,
-      "last_modified": "Sun, 15 Nov 2026 20:51:00 GMT"
+      "last_modified": "Sun, 15 Nov 2026 21:58:33 GMT"
     },
     "au-press": {
-      "checked": "2026-11-15T21:08:27+00:00",
+      "checked": "2026-11-15T21:58:25+00:00",
       "etag": null,
-      "last_modified": "Sun, 15 Nov 2026 21:00:17 GMT"
+      "last_modified": "Sun, 15 Nov 2026 21:45:28 GMT"
     },
     "cphia": {
-      "checked": "2026-11-15T21:09:02+00:00",
+      "checked": "2026-11-15T21:58:59+00:00",
       "etag": null,
       "last_modified": null
     },
     "ecosocc": {
-      "checked": "2026-11-15T21:08:38+00:00",
+      "checked": "2026-11-15T21:58:36+00:00",
       "etag": null,
       "last_modified": null
     },
     "ecowas-news": {
-      "checked": "2026-11-15T21:09:06+00:00",
+      "checked": "2026-11-15T21:59:03+00:00",
       "etag": null,
       "last_modified": null
     },
     "ndhi": {
-      "checked": "2026-11-15T21:09:32+00:00",
-      "etag": "W/\"9f3817f87681125f41ede737bab20d1a\"",
+      "checked": "2026-11-15T21:59:26+00:00",
+      "etag": "W/\"198276d35b6bbf193601cffc89f9e3fb\"",
       "last_modified": null
     },
     "smart-africa": {
-      "checked": "2026-11-15T21:09:27+00:00",
+      "checked": "2026-11-15T21:59:20+00:00",
       "etag": null,
       "last_modified": null
     },
     "waho-pubs": {
-      "checked": "2026-11-15T21:09:12+00:00",
+      "checked": "2026-11-15T21:59:08+00:00",
       "etag": null,
       "last_modified": null
     },

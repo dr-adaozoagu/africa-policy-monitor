@@ -1,4 +1,4 @@
-# Index discovery scan — 2026-11-15T21:20:53+00:00
+# Index discovery scan — 2026-11-15T21:59:28+00:00
 
 Candidates require primary-page verification. Newly discovered does not mean newly published. Retitled does not mean substantively revised.
 
@@ -6,7 +6,7 @@ Candidates require primary-page verification. Newly discovered does not mean new
 No new or retitled matching links detected on successfully checked, previously baselined indexes. This does not establish absence of policy developments.
 
 ## Coverage
-12/13 sources fetched; 12 new baselines.
+12/13 sources fetched; 0 new baselines.
 
 - AU: ok; 0 matching links. 
 - Africa CDC: ok; 0 matching links. 
