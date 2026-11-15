@@ -1,4 +1,4 @@
-# Index discovery scan — 2026-11-15T21:59:28+00:00
+# Index discovery scan — 2026-11-15T22:09:56+00:00
 
 Candidates require primary-page verification. Newly discovered does not mean newly published. Retitled does not mean substantively revised.
 
