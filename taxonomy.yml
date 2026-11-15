@@ -1,0 +1,95 @@
+# Classification against DTH-Lab's four workstreams, plus opportunity signals.
+# Keyword matching is deliberately transparent rather than clever: a liaison
+# officer has to be able to explain why something was flagged.
+
+workstreams:
+  digitally_enabled_health_systems:
+    label: Digitally enabled health systems
+    terms:
+      - digital health
+      - digitalisation
+      - digitalization
+      - interoperab
+      - health information system
+      - primary health care
+      - health facility
+      - telemedicine
+      - electronic health record
+      - healthconnekt
+      - health workforce
+      - community health worker
+      - digital public infrastructure
+
+  data_and_ai_governance:
+    label: Digital, data and AI governance
+    terms:
+      - data governance
+      - health data
+      - data protection
+      - data sharing
+      - data sovereignty
+      - malabo
+      - artificial intelligence
+      - " ai "
+      - algorithm
+      - machine learning
+      - data policy
+      - cybersecurity
+      - digital identity
+
+  digital_determinants:
+    label: Digital determinants of health
+    terms:
+      - digital divide
+      - connectivity
+      - digital literacy
+      - online safety
+      - misinformation
+      - disinformation
+      - digital inclusion
+      - affordability
+      - broadband
+
+  digital_citizenship:
+    label: Digital citizenship for health
+    terms:
+      - youth
+      - young people
+      - adolescent
+      - civil society
+      - participation
+      - accountability
+      - consultation
+      - citizen
+
+# Words that suggest an actionable window rather than a retrospective notice.
+opportunity_signals:
+  - call for
+  - calls for
+  - consultation
+  - submission
+  - request for proposal
+  - expression of interest
+  - terms of reference
+  - applications are open
+  - applications open
+  - apply by
+  - deadline
+  - draft
+  - validation
+  - validate
+  - comment period
+  - stakeholder input
+  - concept note
+  - abstract
+
+# Words that usually mean the decision has already happened. Still worth
+# logging, but they lower the action score.
+retrospective_signals:
+  - adopted
+  - endorsed
+  - concluded
+  - communiqué
+  - communique
+  - closing ceremony
+  - signed

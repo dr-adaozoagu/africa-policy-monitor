@@ -1,0 +1,120 @@
+# Source register — Africa cluster (AU, Africa CDC, RECs)
+# Each entry is a primary institutional source. `tier` reflects how close the
+# source sits to an actual decision, not how often it publishes.
+#
+# tier 1 = decisions, documents and official records
+# tier 2 = institutional newsrooms and press releases
+# tier 3 = convenings and partner platforms where agendas surface early
+
+defaults:
+  user_agent: "africa-policy-monitor/1.0 (+policy monitoring for DTH-Lab Youth Policy Liaison; contact in repo README)"
+  delay_seconds: 2
+  timeout_seconds: 30
+
+sources:
+  # ---------------- African Union ----------------
+  - id: au-press
+    body: African Union
+    name: AU press releases
+    url: https://au.int/en/pressreleases
+    tier: 2
+  - id: au-decisions
+    body: African Union
+    name: AU Assembly & Executive Council decisions
+    url: https://au.int/en/decisions
+    tier: 1
+  - id: au-newsevents
+    body: African Union
+    name: AU news and events
+    url: https://au.int/en/newsevents
+    tier: 2
+  - id: au-documents
+    body: African Union
+    name: AU documents library
+    url: https://au.int/en/documents
+    tier: 1
+  - id: ecosocc
+    body: AU ECOSOCC
+    name: ECOSOCC news (civil society entry point)
+    url: https://ecosocc.au.int/en/news
+    tier: 3
+
+  # ---------------- Africa CDC ----------------
+  - id: africacdc-news
+    body: Africa CDC
+    name: Africa CDC newsroom
+    url: https://africacdc.org/news/
+    tier: 2
+  - id: africacdc-items
+    body: Africa CDC
+    name: Africa CDC news items
+    url: https://africacdc.org/news-item/
+    tier: 2
+  - id: africacdc-downloads
+    body: Africa CDC
+    name: Africa CDC downloads (frameworks, plans, strategies)
+    url: https://africacdc.org/download/
+    tier: 1
+  - id: africacdc-khub
+    body: Africa CDC
+    name: Africa Health Knowledge Hub
+    url: https://khub.africacdc.org/
+    tier: 1
+  - id: africacdc-youth
+    body: Africa CDC
+    name: Africa CDC youth programme
+    url: https://youth.africacdc.org/
+    tier: 3
+  - id: cphia
+    body: Africa CDC
+    name: CPHIA conference (calls, abstracts, side events)
+    url: https://cphia.africacdc.org/
+    tier: 3
+
+  # ---------------- ECOWAS / WAHO ----------------
+  - id: ecowas-news
+    body: ECOWAS Commission
+    name: ECOWAS news
+    url: https://www.ecowas.int/news/
+    tier: 2
+  - id: waho-news
+    body: WAHO
+    name: WAHO actualités
+    url: https://www.wahooas.org/web-ooas/en/actualites
+    tier: 2
+  - id: waho-pubs
+    body: WAHO
+    name: WAHO publications
+    url: https://www.wahooas.org/web-ooas/publication
+    tier: 1
+
+  # ---------------- WHO ----------------
+  - id: who-gb
+    body: WHO
+    name: WHO governing bodies (EB160 / WHA80 documents)
+    url: https://apps.who.int/gb/e/e_eb160.html
+    tier: 1
+  - id: who-afro-rc
+    body: WHO AFRO
+    name: WHO AFRO Regional Committee
+    url: https://www.afro.who.int/about-us/governance
+    tier: 1
+
+  # ---------------- Continental alliances ----------------
+  - id: smart-africa
+    body: Smart Africa
+    name: Smart Africa news
+    url: https://smartafrica.org/news/
+    tier: 3
+  - id: auda-nepad
+    body: AUDA-NEPAD
+    name: AUDA-NEPAD news
+    url: https://www.nepad.org/news
+    tier: 3
+
+  # ---------------- National proof-point ----------------
+  - id: ndhi
+    body: Nigeria FMoHSW
+    name: Nigeria Digital in Health Initiative
+    url: https://digitalhealth.gov.ng/
+    tier: 3
