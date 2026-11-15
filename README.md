@@ -4,7 +4,7 @@ A working monitor over the institutional sources that matter to youth-centred
 digital health policy in Africa: the African Union, Africa CDC, ECOWAS and WAHO,
 and the WHO processes that intersect with them.
 
-It runs on a weekday schedule, compares each source against what it saw last
+It runs on a daily schedule, compares each source against what it saw last
 time, classifies anything new against four workstreams — digitally enabled
 health systems; digital, data and AI governance; digital determinants of health;
 digital citizenship for health — and writes a ranked signal note.
@@ -40,7 +40,7 @@ monitoring complete, and no honest tool would claim to.
 sources.yml                  source register, tiered by closeness to a decision
 taxonomy.yml                 workstream keywords and opportunity signals
 monitor.py                   fetch, diff, classify, rank, write
-.github/workflows/           weekday cron; commits each note back to the repo
+.github/workflows/           daily cron; commits each note back to the repo
 signal-notes/                dated output, one note per run
 docs/2027-decision-calendar.md    where a text can still change, and by when
 docs/youth-channel-audit.md       where youth input is provided for, and where it is not
@@ -77,3 +77,26 @@ python monitor.py --offline tests/fixtures # no network; runs against saved HTML
   they land in LOW rather than disappear.
 - Several items in the calendar are inferred from annual patterns and are
   labelled as such. They are not announcements.
+
+
+## Delivery tracker and dashboard
+
+The repository now includes a companion discovery scanner and delivery tracker:
+
+- `docs/index.html`: self-contained dashboard; download and open locally. GitHub file view shows source, and GitHub Pages has not been enabled.
+- `data/actions.csv`: verified opportunities, recommendations and next actions.
+- `data/deliverables.csv`: role commitments, proposed habits, status and evidence links.
+- `scripts/monitor.py`: a standard-library index scanner, separate from the original root `monitor.py`; tracks new/retitled matching links and reports source failures.
+- `data/source_health.json`: source coverage and access failures.
+- `briefs/latest.md`: latest companion scan summary; the original monitor continues to write `signal-notes/`.
+- `templates/`: concise policy brief and engagement evidence templates.
+- `docs/operating-plan.md`: inception priorities and a suggested allocation within two working days per month.
+- `.github/ISSUE_TEMPLATE/policy-opportunity.md`: turn a verified signal into a tracked action.
+
+The workflow runs daily at **06:37 UTC / 07:37 WAT**, with manual runs available in Actions. Both monitors run within the same serialized job; the companion dashboard and source-health diagnostics are uploaded as a run artifact. Scheduled Actions can be delayed.
+
+A separate ChatGPT research automation is configured for approximately **08:00 WAT**. It interprets and verifies policy developments. This repository's scripts use title/index matching; they do not establish policy adoption, open consultation status, publication dates or deadlines. A matching link is a candidate for verification. ChatGPT and the scripts do not yet share automatic writeback; verified recommendations can be copied into Issues or the action register.
+
+To edit the tracker, update the CSV files then run the workflow, or run `python scripts/monitor.py --render-only` locally. Run `python -m unittest discover -s tests -v` for the companion's behavior checks. Its baseline fetched 12 of 13 configured pages on 15 November 2026; COMESA showed a possible access challenge. CEN-SAD has no verified automatic source configured; cross-host redirects are blocked by the companion scanner.
+
+The ToR's required commitments are distinguished from proposed reporting habits. No appointment, completed deliverable or institutional access is assumed. The repository contains monitoring tools only; application documents are excluded.

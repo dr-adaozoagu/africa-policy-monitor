@@ -1,0 +1,67 @@
+[
+  {
+    "name": "AU",
+    "url": "https://au.int/en/happening",
+    "tier": "Core"
+  },
+  {
+    "name": "Africa CDC",
+    "url": "https://africacdc.org/",
+    "tier": "Core"
+  },
+  {
+    "name": "Africa CDC events",
+    "url": "https://africacdc.org/event/",
+    "tier": "Core"
+  },
+  {
+    "name": "ECOWAS",
+    "url": "https://www.ecowas.int/",
+    "tier": "Core"
+  },
+  {
+    "name": "WAHO",
+    "url": "https://www.wahooas.org/",
+    "tier": "Core"
+  },
+  {
+    "name": "EAC",
+    "url": "https://www.eac.int/",
+    "tier": "Regional"
+  },
+  {
+    "name": "SADC",
+    "url": "https://www.sadc.int/",
+    "tier": "Regional"
+  },
+  {
+    "name": "COMESA",
+    "url": "https://www.comesa.int/",
+    "tier": "Regional"
+  },
+  {
+    "name": "IGAD",
+    "url": "https://igad.int/",
+    "tier": "Regional"
+  },
+  {
+    "name": "ECCAS",
+    "url": "https://ceeac-eccas.org/",
+    "tier": "Regional"
+  },
+  {
+    "name": "UMA",
+    "url": "https://maghrebarabe.org/",
+    "tier": "Regional"
+  },
+  {
+    "name": "WHO AFRO",
+    "url": "https://www.afro.who.int/",
+    "tier": "Context"
+  },
+  {
+    "name": "DTH-Lab",
+    "url": "https://dthlab.org/",
+    "tier": "Context"
+  }
+]

@@ -1,27 +1,52 @@
 name: Daily policy scan
-
 on:
   schedule:
-    - cron: "0 6 * * 1-5"
+    - cron: '37 6 * * *'
   workflow_dispatch:
-
 permissions:
   contents: write
-
+concurrency:
+  group: africa-policy-monitor
+  cancel-in-progress: false
 jobs:
   scan:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: '3.12'
       - run: pip install -r requirements.txt
-      - run: python monitor.py
-      - name: Commit the signal note
+      - name: Check companion scanner behavior
+        run: python -m unittest discover -s tests -v
+      - name: Scan original institutional register
+        id: original
+        continue-on-error: true
+        run: python monitor.py
+      - name: Refresh discovery dashboard and source health
+        id: companion
+        continue-on-error: true
+        run: python scripts/monitor.py
+      - name: Preserve dashboard and diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: africa-policy-watch-${{ github.run_id }}
+          path: |
+            docs/index.html
+            data/
+            briefs/
+            signal-notes/
+      - name: Commit monitoring records
         run: |
-          git config user.name  "africa-policy-monitor"
-          git config user.email "actions@github.com"
-          git add -A
-          git diff --staged --quiet || git commit -m "Signal note $(date -u +%Y-%m-%d)"
-          git push
+          git config user.name 'africa-policy-monitor'
+          git config user.email 'actions@github.com'
+          git add state signal-notes data briefs docs/index.html
+          if ! git diff --staged --quiet; then
+            git commit -m 'Update daily policy intelligence and delivery dashboard'
+            git push
+          fi
+      - name: Surface scanner failure
+        if: steps.original.outcome == 'failure' || steps.companion.outcome == 'failure'
+        run: exit 1
