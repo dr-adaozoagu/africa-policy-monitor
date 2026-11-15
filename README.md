@@ -83,7 +83,7 @@ python monitor.py --offline tests/fixtures # no network; runs against saved HTML
 
 The repository now includes a companion discovery scanner and delivery tracker:
 
-- `docs/index.html`: self-contained dashboard; download and open locally. GitHub file view shows source, and GitHub Pages has not been enabled.
+- `docs/index.html`: self-contained dashboard, also published at [Africa Policy Watch](https://dr-adaozoagu.github.io/africa-policy-monitor/).
 - `data/actions.csv`: verified opportunities, recommendations and next actions.
 - `data/deliverables.csv`: role commitments, proposed habits, status and evidence links.
 - `scripts/monitor.py`: a standard-library index scanner, separate from the original root `monitor.py`; tracks new/retitled matching links and reports source failures.
@@ -100,3 +100,7 @@ A separate ChatGPT research automation is configured for approximately **08:00 W
 To edit the tracker, update the CSV files then run the workflow, or run `python scripts/monitor.py --render-only` locally. Run `python -m unittest discover -s tests -v` for the companion's behavior checks. Its baseline fetched 12 of 13 configured pages on 15 November 2026; COMESA showed a possible access challenge. CEN-SAD has no verified automatic source configured; cross-host redirects are blocked by the companion scanner.
 
 The ToR's required commitments are distinguished from proposed reporting habits. No appointment, completed deliverable or institutional access is assumed. The repository contains monitoring tools only; application documents are excluded.
+
+## Live website publishing
+
+GitHub Pages is enabled using GitHub Actions. The `Publish policy dashboard` workflow rebuilds and publishes the dashboard after successful daily scans and after changes to dashboard data or files. It checks out the latest main branch and publishes only the docs directory. A live scan completed successfully on 15 November 2026: tests, both scanners, artifact upload and record commit all passed. The website shows source failures explicitly; successful execution does not imply every institutional source was accessible.
