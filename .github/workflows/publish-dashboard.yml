@@ -1,0 +1,45 @@
+name: Publish policy dashboard
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - 'data/**'
+      - 'scripts/monitor.py'
+      - '.github/workflows/publish-dashboard.yml'
+  workflow_run:
+    workflows: ['Daily policy scan']
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: policy-dashboard-pages
+  cancel-in-progress: false
+jobs:
+  publish:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Render current delivery and policy data
+        run: python scripts/monitor.py --render-only
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - name: Publish live dashboard
+        id: deployment
+        uses: actions/deploy-pages@v4
