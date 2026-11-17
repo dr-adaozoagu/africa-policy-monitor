@@ -1,74 +1,74 @@
 {
   "http": {
     "africacdc-items": {
-      "checked": "2026-11-16T16:22:36+00:00",
+      "checked": "2026-11-17T16:27:47+00:00",
       "etag": null,
       "last_modified": null
     },
     "africacdc-khub": {
-      "checked": "2026-11-16T16:22:44+00:00",
+      "checked": "2026-11-17T16:27:55+00:00",
       "etag": null,
       "last_modified": null
     },
     "africacdc-news": {
-      "checked": "2026-11-16T16:22:33+00:00",
+      "checked": "2026-11-17T16:27:44+00:00",
       "etag": null,
       "last_modified": null
     },
     "africacdc-youth": {
-      "checked": "2026-11-16T16:22:49+00:00",
+      "checked": "2026-11-17T16:27:59+00:00",
       "etag": null,
       "last_modified": null
     },
     "au-decisions": {
-      "checked": "2026-11-16T16:22:22+00:00",
+      "checked": "2026-11-17T16:27:24+00:00",
       "etag": null,
-      "last_modified": "Mon, 16 Nov 2026 16:08:28 GMT"
+      "last_modified": "Tue, 17 Nov 2026 16:09:04 GMT"
     },
     "au-documents": {
-      "checked": "2026-11-16T16:22:26+00:00",
+      "checked": "2026-11-17T16:27:38+00:00",
       "etag": null,
-      "last_modified": "Mon, 16 Nov 2026 16:21:42 GMT"
+      "last_modified": "Tue, 17 Nov 2026 16:16:14 GMT"
     },
     "au-press": {
-      "checked": "2026-11-16T16:22:20+00:00",
+      "checked": "2026-11-17T16:27:21+00:00",
       "etag": null,
-      "last_modified": "Mon, 16 Nov 2026 16:08:46 GMT"
+      "last_modified": "Tue, 17 Nov 2026 16:17:27 GMT"
     },
     "cphia": {
-      "checked": "2026-11-16T16:22:53+00:00",
+      "checked": "2026-11-17T16:28:04+00:00",
       "etag": null,
       "last_modified": null
     },
     "ecosocc": {
-      "checked": "2026-11-16T16:22:29+00:00",
+      "checked": "2026-11-17T16:27:40+00:00",
       "etag": null,
       "last_modified": null
     },
     "ecowas-news": {
-      "checked": "2026-11-16T16:22:57+00:00",
+      "checked": "2026-11-17T16:28:08+00:00",
       "etag": null,
       "last_modified": null
     },
     "ndhi": {
-      "checked": "2026-11-16T16:23:22+00:00",
-      "etag": "W/\"198276d35b6bbf193601cffc89f9e3fb\"",
+      "checked": "2026-11-17T16:28:31+00:00",
+      "etag": "W/\"19c9f79b0aa9ebc63cfc5c7017a521b4\"",
       "last_modified": null
     },
     "smart-africa": {
-      "checked": "2026-11-16T16:23:16+00:00",
+      "checked": "2026-11-17T16:28:25+00:00",
       "etag": null,
       "last_modified": null
     },
     "waho-pubs": {
-      "checked": "2026-11-16T16:23:02+00:00",
+      "checked": "2026-11-17T16:28:14+00:00",
       "etag": null,
       "last_modified": null
     },
     "who-afro-rc": {
-      "checked": "2026-11-16T16:23:09+00:00",
-      "etag": "\"1794846188\"",
-      "last_modified": "Mon, 16 Nov 2026 16:23:08 GMT"
+      "checked": "2026-11-17T16:28:20+00:00",
+      "etag": "\"1794932899\"",
+      "last_modified": "Tue, 17 Nov 2026 16:28:19 GMT"
     },
     "who-gb": {
       "checked": "2026-11-15T21:09:16+00:00",
@@ -137,6 +137,10 @@
       "first_seen": "2026-11-15",
       "url": "https://smartafrica.org/zimbabwe-elected-chair-of-cmict-as-smart-africa-welcomes-new-member-states/"
     },
+    "0bdbfbd4b309d21e": {
+      "first_seen": "2026-11-17",
+      "url": "https://ecosocc.au.int/index.php/en/events/2026-07-21/2026-global-africa-people-people-forum"
+    },
     "0ce0a042e7def470": {
       "first_seen": "2026-11-16",
       "url": "https://www.wahooas.org/web-ooas/publication/prospects-lassa-fever-candidate-vaccines"
@@ -148,6 +152,10 @@
     "0d3f49f7fcc03f81": {
       "first_seen": "2026-11-15",
       "url": "https://au.int/en/pressreleases/20261113/27th-executive-council-imperative-financial-autonomy-and-institutional"
+    },
+    "0e030c588bbfd2a1": {
+      "first_seen": "2026-11-17",
+      "url": "https://ecosocc.au.int/index.php/en/documents/2026-08-12/ecosocc-civil-society-2026-pre-summit-report"
     },
     "0e2c27d7cc80fe97": {
       "first_seen": "2026-11-16",
@@ -193,6 +201,14 @@
       "first_seen": "2026-11-15",
       "url": "https://apps.who.int/gb/ebwha/pdf_files/EB160/B160_POW1_en.pdf"
     },
+    "1677649c2a6dcb64": {
+      "first_seen": "2026-11-17",
+      "url": "https://au.int/en/pressreleases/20261117/auc-chairperson-received-letters-credence-mr-george-fominyen-wfp-rep"
+    },
+    "16fbddc3da717f54": {
+      "first_seen": "2026-11-17",
+      "url": "https://ecosocc.au.int/en/ecf"
+    },
     "18ea3a8ee69a288e": {
       "first_seen": "2026-11-15",
       "url": "https://au.int/en/pressreleases/20261113/auc-chairperson-has-arrived-accra-ghana-27th-executive-council"
@@ -229,6 +245,10 @@
       "first_seen": "2026-11-15",
       "url": "https://www.wahooas.org/web-ooas/news/waho-and-nigeria-strengthen-cooperation-maternal-and-child-health-and-local-production-health"
     },
+    "286aa5003512431f": {
+      "first_seen": "2026-11-17",
+      "url": "https://ecosocc.au.int/index.php/en/ecf"
+    },
     "297e264579abe065": {
       "first_seen": "2026-11-15",
       "url": "https://au.int/en/document/au-policy-briefs-urban-resilience-africa-policy-pathways-final"
@@ -240,6 +260,10 @@
     "29b26b13444d5585": {
       "first_seen": "2026-11-15",
       "url": "https://khub.africacdc.org/records/resource/africa-cdc-strategy-for-youth-engagement-and-participation-in-global-health-yeshealth-2025-2028"
+    },
+    "29ca9b3514e96f8f": {
+      "first_seen": "2026-11-17",
+      "url": "https://africacdc.org/news-item/from-dependency-to-sovereignty-what-the-international-conference-on-public-health-in-africa-2026-must-deliver-for-africas-health-security/"
     },
     "2a32ff0c646a6e8a": {
       "first_seen": "2026-11-15",
@@ -276,6 +300,10 @@
     "38d7940eb7357c76": {
       "first_seen": "2026-11-15",
       "url": "https://khub.africacdc.org/records/resource/effectiveness-of-two-doses-of-euvichol-plus-oral-cholera-vaccine-in-response-to-the-20172018-outbreak-a-matched-case-c"
+    },
+    "3964dc3d517c195a": {
+      "first_seen": "2026-11-17",
+      "url": "https://ecosocc.au.int/index.php/en/news/articles/2026-08-11/ecosocc-include-perception-study-featured-ecosocc-citizens-forum-2026"
     },
     "39a827dc7f660c24": {
       "first_seen": "2026-11-15",
@@ -329,9 +357,17 @@
       "first_seen": "2026-11-15",
       "url": "https://www.wahooas.org/web-ooas/index.php/publication/governance-model-lassa-fever-and-emerging-infectious-diseases-irrua-institute"
     },
+    "43a681b7a2a84a98": {
+      "first_seen": "2026-11-17",
+      "url": "https://au.int/en/speeches/20261115/statement-he-moses-vilakati-auc-commissioner-arbe-amcen-meeting"
+    },
     "43c0ca3a8ad22bc1": {
       "first_seen": "2026-11-15",
       "url": "https://au.int/en/pressreleases/20261111/auc-chairperson-received-un-special-rep-drc-and-special-envoy-great-lakes"
+    },
+    "4427f32198c096de": {
+      "first_seen": "2026-11-17",
+      "url": "https://cphia.africacdc.org/programme?session=378"
     },
     "4586e5cb340094a6": {
       "first_seen": "2026-11-15",
@@ -344,6 +380,10 @@
     "46241db251c5f16b": {
       "first_seen": "2026-11-15",
       "url": "https://khub.africacdc.org/records/resource/the-silent-crisis-why-improper-medication-disposal-is-poisoning-africas-future-1"
+    },
+    "46de7c8e400ad022": {
+      "first_seen": "2026-11-17",
+      "url": "https://khub.africacdc.org/browse/authors"
     },
     "47f22bd406338fec": {
       "first_seen": "2026-11-15",
@@ -372,6 +412,10 @@
     "4c1d99c385bd0c2c": {
       "first_seen": "2026-11-15",
       "url": "https://www.wahooas.org/web-ooas/node/697"
+    },
+    "4c6597355a9867bf": {
+      "first_seen": "2026-11-17",
+      "url": "https://ecosocc.au.int/en/node/571"
     },
     "4d164d0865f34a96": {
       "first_seen": "2026-11-15",
@@ -416,6 +460,10 @@
     "57c829c52aa97a12": {
       "first_seen": "2026-11-15",
       "url": "https://au.int/en/pressreleases/20261113/mise-en-oeuvre-de-la-campagne-africaeducatesher-visite-de-terrain-de-lua"
+    },
+    "5813a57f4dcfd5ba": {
+      "first_seen": "2026-11-17",
+      "url": "https://au.int/en/pressreleases/20261116/africa-road-safety-day-call-renewed-commitment-safer-roads"
     },
     "587a9c2a50f20ea1": {
       "first_seen": "2026-11-15",
@@ -477,6 +525,10 @@
       "first_seen": "2026-11-15",
       "url": "https://au.int/en/documents/20260814/african-union-guidelines-collection-and-utilization-quality-administrative-sata"
     },
+    "653320f00c55d59a": {
+      "first_seen": "2026-11-17",
+      "url": "https://ecosocc.au.int/index.php/en/news/press-releases/2026-04-30/ecosocc-briefs-cerd-unga-resolution-racialized-chattel-enslavement"
+    },
     "659f1da1a46a4de3": {
       "first_seen": "2026-11-15",
       "url": "https://apps.who.int/gb/ebwha/pdf_files/EB160/B160_proposed_assessment_process_template-en.pdf"
@@ -501,9 +553,17 @@
       "first_seen": "2026-11-15",
       "url": "https://www.wahooas.org/web-ooas/"
     },
+    "6b8e1a9cba5f31d1": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.ecowas.int/ecowas-world-bank-intensify-efforts-to-bridge-regional-electricity-access-gap/"
+    },
     "6b8e9ede4103d730": {
       "first_seen": "2026-11-15",
       "url": "https://au.int/en/documents/20260921/strategic-directions-development-electric-vehicles-africa"
+    },
+    "6b967b9787aecd17": {
+      "first_seen": "2026-11-17",
+      "url": "https://au.int/en/pressreleases/20261117/auc-chairperson-received-permanent-representative-republic-south-sudan"
     },
     "6c7638b7a1e88a07": {
       "first_seen": "2026-11-15",
@@ -549,9 +609,17 @@
       "first_seen": "2026-11-16",
       "url": "https://www.wahooas.org/web-ooas/publication/improving-infection-prevention-and-control-during-lassa-fever-outbreak-experience"
     },
+    "76013bec22fd9e84": {
+      "first_seen": "2026-11-17",
+      "url": "https://africacdc.org/news-item/cphia-2026-african-leaders-to-convene-in-addis-ababa-to-advance-health-security-and-sovereignty/"
+    },
     "76dc14587b1f0868": {
       "first_seen": "2026-11-15",
       "url": "https://khub.africacdc.org/records/resource/journal-of-public-health-in-africa-publications-in-year-2025"
+    },
+    "776cabc62ee9e6e7": {
+      "first_seen": "2026-11-17",
+      "url": "https://ecosocc.au.int/index.php/en/node/571"
     },
     "77c58d9928a1a8b0": {
       "first_seen": "2026-11-15",
@@ -589,9 +657,17 @@
       "first_seen": "2026-11-15",
       "url": "https://africacdc.org/news-item/africa-cdc-welcomes-the-appointment-of-dr-mark-dybul-as-executive-director-of-the-global-fund-and-calls-for-a-new-era-of-african-ownership-and-health-sovereignty/"
     },
+    "7af694b54311731e": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.ecowas.int/cabo-verde-presidential-election-ecowas-preliminary-declaration/"
+    },
     "7bbb537b710260ed": {
       "first_seen": "2026-11-15",
       "url": "https://ecosocc.au.int/en/news/updates/2026-03-12/harvard-africa-health-conference-2026"
+    },
+    "7bd506c0ef021644": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.ecowas.int/ecowas-and-its-partners-commit-to-accelerating-the-implementation-of-the-atcma-programme-to-strengthen-the-competitiveness-of-west-african-enterprises/"
     },
     "7c9f695158ee4187": {
       "first_seen": "2026-11-15",
@@ -604,6 +680,10 @@
     "7f982edebbe9d4a7": {
       "first_seen": "2026-11-15",
       "url": "https://khub.africacdc.org/records/resource/leveraging-youth-engagement-for-emergency-response-learnings-from-the-au-bingwa-initiative"
+    },
+    "8124b612beafc9d8": {
+      "first_seen": "2026-11-17",
+      "url": "https://ecosocc.au.int/index.php/en/news/updates/2026-03-12/harvard-africa-health-conference-2026"
     },
     "8335675526b7abbe": {
       "first_seen": "2026-11-15",
@@ -649,6 +729,10 @@
       "first_seen": "2026-11-15",
       "url": "https://apps.who.int/gb/ebwha/pdf_files/EB160/EB160_documentation_planning_profile-en.pdf"
     },
+    "8f3522cb40ade151": {
+      "first_seen": "2026-11-17",
+      "url": "https://au.int/en/newsevents/20261117/africa-industrialisation-week-aiw-2026-driving-africas-industrial"
+    },
     "8ff2264d1f6b88c7": {
       "first_seen": "2026-11-15",
       "url": "https://www.facebook.com/AfricanUnionCommission"
@@ -656,6 +740,10 @@
     "90f262eef672cd97": {
       "first_seen": "2026-11-15",
       "url": "https://www.wahooas.org/web-ooas/news/waho-moves-improve-access-specialised-healthcare-through-harmonised-training-west-africa"
+    },
+    "92f9b82a1218ab1b": {
+      "first_seen": "2026-11-17",
+      "url": "https://ecosocc.au.int/index.php/en/documents/2026-02-11/2026-ecosocc-annual-procurement-plan"
     },
     "946f1b581ce46617": {
       "first_seen": "2026-11-15",
@@ -725,9 +813,21 @@
       "first_seen": "2026-11-16",
       "url": "https://www.wahooas.org/web-ooas/publication/outbreak-opportunity-leveraging-lassa-fever-trends-2018-2025-strengthen-trial-site"
     },
+    "9f7b02be7cdbf538": {
+      "first_seen": "2026-11-17",
+      "url": "https://au.int/en/pressreleases/20261116/lua-cieffa-effectue-une-visite-devaluation-au-tchad-africaeducatesher"
+    },
+    "a0c7c565c78d3a77": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.ecowas.int/ecowas-chiefs-of-defence-staff-meet-in-dakar-to-reaffirm-their-commitment-to-collective-security/"
+    },
     "a372824c92638d73": {
       "first_seen": "2026-11-15",
       "url": "https://ecosocc.au.int/index.php/en/node/571"
+    },
+    "a3851f61f4ebc64f": {
+      "first_seen": "2026-11-17",
+      "url": "https://ecosocc.au.int/en/news/articles/2026-08-11/ecosocc-include-perception-study-featured-ecosocc-citizens-forum-2026"
     },
     "a4d188c9c94e5d72": {
       "first_seen": "2026-11-15",
@@ -817,6 +917,10 @@
       "first_seen": "2026-11-15",
       "url": "https://au.int/en/decisions/decisions-forty-first-ordinary-session-executive-council"
     },
+    "b8c722b77a782496": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.ecowas.int/ecowas-vice-president-seeks-stronger-partnership-with-nigerias-military-to-enhance-regional-security/"
+    },
     "bb789e4c3ac8c0c0": {
       "first_seen": "2026-11-15",
       "url": "https://khub.africacdc.org/records/resource/africa-cdc-ebola-outbreaks-in-drc-and-uganda-weekly-brief-28th-may-2026"
@@ -876,6 +980,10 @@
     "c8d3cca8c757b9f9": {
       "first_seen": "2026-11-15",
       "url": "https://ecosocc.au.int/en/news/press-releases/2022-05-03/ecosocc-hold-election-its-4th-permanent-general-assembly-december"
+    },
+    "c9a7a62104f76bbf": {
+      "first_seen": "2026-11-17",
+      "url": "https://au.int/en/speeches/20261114/statement-auc-commissioner-arbe-ministerial-segment-africa-day-cop31"
     },
     "c9d6330bc1cb8059": {
       "first_seen": "2026-11-16",
@@ -940,6 +1048,10 @@
     "d95ff5f72efa1b57": {
       "first_seen": "2026-11-15",
       "url": "https://au.int/en/document/catalytic-framework-end-aids-tb-and-eliminate-malaria-africa-2030"
+    },
+    "db2c1b4554fe36c5": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.ecowas.int/ecowas-legal-advisers-convene-in-banjul-to-prepare-legal-instruments-for-the-end-of-year-2026-statutory-meetings-and-strengthen-community-law-and-institutional-cooperation/"
     },
     "dbed5d294778d300": {
       "first_seen": "2026-11-16",
@@ -1041,6 +1153,10 @@
       "first_seen": "2026-11-15",
       "url": "https://www.flickr.com/photos/africanunioncommission/"
     },
+    "ee63d2c42faf4606": {
+      "first_seen": "2026-11-17",
+      "url": "https://ecosocc.au.int/index.php/en/news/updates/2026-02-18/securing-sustainable-water-and-sanitation-africa"
+    },
     "eef501f4c4d5397e": {
       "first_seen": "2026-11-15",
       "url": "https://smartafrica.org/smart-africa-and-certa-foundation-partner-to-explore-innovative-approaches-to-advance-digital-governance-and-data-sovereignty/"
@@ -1088,6 +1204,14 @@
     "f53a06a31d53e888": {
       "first_seen": "2026-11-15",
       "url": "https://ecosocc.au.int/en/documents/2026-02-11/2026-ecosocc-annual-procurement-plan"
+    },
+    "f56f8d6eda66c955": {
+      "first_seen": "2026-11-17",
+      "url": "https://cphia.africacdc.org/programme?session=374"
+    },
+    "f5c1161c2256934b": {
+      "first_seen": "2026-11-17",
+      "url": "https://au.int/en/pressreleases/20261116/african-union-calls-strengthened-integrated-health-systems-advance-human"
     },
     "f86f1ed9eafeff90": {
       "first_seen": "2026-11-15",
