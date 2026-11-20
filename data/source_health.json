@@ -2,7 +2,7 @@
   {
     "name": "AU",
     "url": "https://au.int/en/happening",
-    "checked_at": "2026-11-19T16:03:05+00:00",
+    "checked_at": "2026-11-20T15:45:15+00:00",
     "status": "ok",
     "error": "",
     "matches": 0,
@@ -11,7 +11,7 @@
   {
     "name": "Africa CDC",
     "url": "https://africacdc.org/",
-    "checked_at": "2026-11-19T16:03:05+00:00",
+    "checked_at": "2026-11-20T15:45:15+00:00",
     "status": "ok",
     "error": "",
     "matches": 0,
@@ -20,7 +20,7 @@
   {
     "name": "Africa CDC events",
     "url": "https://africacdc.org/event/",
-    "checked_at": "2026-11-19T16:03:05+00:00",
+    "checked_at": "2026-11-20T15:45:15+00:00",
     "status": "ok",
     "error": "",
     "matches": 0,
@@ -29,16 +29,16 @@
   {
     "name": "ECOWAS",
     "url": "https://www.ecowas.int/",
-    "checked_at": "2026-11-19T16:03:05+00:00",
+    "checked_at": "2026-11-20T15:45:15+00:00",
     "status": "ok",
     "error": "",
-    "matches": 0,
+    "matches": 1,
     "baseline": false
   },
   {
     "name": "WAHO",
     "url": "https://www.wahooas.org/",
-    "checked_at": "2026-11-19T16:03:05+00:00",
+    "checked_at": "2026-11-20T15:45:15+00:00",
     "status": "ok",
     "error": "",
     "matches": 3,
@@ -47,7 +47,7 @@
   {
     "name": "EAC",
     "url": "https://www.eac.int/",
-    "checked_at": "2026-11-19T16:03:05+00:00",
+    "checked_at": "2026-11-20T15:45:15+00:00",
     "status": "ok",
     "error": "",
     "matches": 0,
@@ -56,16 +56,15 @@
   {
     "name": "SADC",
     "url": "https://www.sadc.int/",
-    "checked_at": "2026-11-19T16:03:05+00:00",
-    "status": "ok",
-    "error": "",
-    "matches": 0,
-    "baseline": false
+    "checked_at": "2026-11-20T15:45:15+00:00",
+    "status": "error",
+    "error": "URLError: <urlopen error timed out>",
+    "matches": 0
   },
   {
     "name": "COMESA",
     "url": "https://www.comesa.int/",
-    "checked_at": "2026-11-19T16:03:05+00:00",
+    "checked_at": "2026-11-20T15:45:15+00:00",
     "status": "error",
     "error": "ValueError: possible access challenge; manual review needed",
     "matches": 0
@@ -73,7 +72,7 @@
   {
     "name": "IGAD",
     "url": "https://igad.int/",
-    "checked_at": "2026-11-19T16:03:05+00:00",
+    "checked_at": "2026-11-20T15:45:15+00:00",
     "status": "ok",
     "error": "",
     "matches": 0,
@@ -82,7 +81,7 @@
   {
     "name": "ECCAS",
     "url": "https://ceeac-eccas.org/",
-    "checked_at": "2026-11-19T16:03:05+00:00",
+    "checked_at": "2026-11-20T15:45:15+00:00",
     "status": "ok",
     "error": "",
     "matches": 0,
@@ -91,7 +90,7 @@
   {
     "name": "UMA",
     "url": "https://maghrebarabe.org/",
-    "checked_at": "2026-11-19T16:03:05+00:00",
+    "checked_at": "2026-11-20T15:45:15+00:00",
     "status": "error",
     "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>",
     "matches": 0
@@ -99,16 +98,16 @@
   {
     "name": "WHO AFRO",
     "url": "https://www.afro.who.int/",
-    "checked_at": "2026-11-19T16:03:05+00:00",
+    "checked_at": "2026-11-20T15:45:15+00:00",
     "status": "ok",
     "error": "",
-    "matches": 2,
+    "matches": 1,
     "baseline": false
   },
   {
     "name": "DTH-Lab",
     "url": "https://dthlab.org/",
-    "checked_at": "2026-11-19T16:03:05+00:00",
+    "checked_at": "2026-11-20T15:45:15+00:00",
     "status": "ok",
     "error": "",
     "matches": 1,
