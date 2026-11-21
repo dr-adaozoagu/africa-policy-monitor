@@ -1,52 +1,52 @@
 {
   "http": {
     "africacdc-items": {
-      "checked": "2026-11-20T15:44:31+00:00",
+      "checked": "2026-11-21T14:55:09+00:00",
       "etag": null,
       "last_modified": null
     },
     "africacdc-khub": {
-      "checked": "2026-11-20T15:44:38+00:00",
+      "checked": "2026-11-21T14:55:17+00:00",
       "etag": null,
       "last_modified": null
     },
     "africacdc-news": {
-      "checked": "2026-11-20T15:44:27+00:00",
+      "checked": "2026-11-21T14:55:06+00:00",
       "etag": null,
       "last_modified": null
     },
     "africacdc-youth": {
-      "checked": "2026-11-20T15:44:43+00:00",
+      "checked": "2026-11-21T14:55:22+00:00",
       "etag": null,
       "last_modified": null
     },
     "au-decisions": {
-      "checked": "2026-11-20T15:44:16+00:00",
+      "checked": "2026-11-21T14:54:55+00:00",
       "etag": null,
-      "last_modified": "Fri, 20 Nov 2026 15:44:13 GMT"
+      "last_modified": "Sat, 21 Nov 2026 14:54:54 GMT"
     },
     "au-documents": {
-      "checked": "2026-11-20T15:44:21+00:00",
+      "checked": "2026-11-21T14:55:00+00:00",
       "etag": null,
-      "last_modified": "Fri, 20 Nov 2026 15:37:39 GMT"
+      "last_modified": "Sat, 21 Nov 2026 14:51:25 GMT"
     },
     "au-press": {
-      "checked": "2026-11-20T15:44:14+00:00",
+      "checked": "2026-11-21T14:54:52+00:00",
       "etag": null,
-      "last_modified": "Fri, 20 Nov 2026 15:32:34 GMT"
+      "last_modified": "Sat, 21 Nov 2026 14:46:12 GMT"
     },
     "cphia": {
-      "checked": "2026-11-20T15:44:47+00:00",
+      "checked": "2026-11-21T14:55:25+00:00",
       "etag": null,
       "last_modified": null
     },
     "ecosocc": {
-      "checked": "2026-11-20T15:44:24+00:00",
+      "checked": "2026-11-21T14:55:02+00:00",
       "etag": null,
       "last_modified": null
     },
     "ecowas-news": {
-      "checked": "2026-11-20T15:44:51+00:00",
+      "checked": "2026-11-21T14:55:30+00:00",
       "etag": null,
       "last_modified": null
     },
@@ -56,24 +56,24 @@
       "last_modified": null
     },
     "smart-africa": {
-      "checked": "2026-11-20T15:45:08+00:00",
+      "checked": "2026-11-21T14:55:49+00:00",
       "etag": null,
       "last_modified": null
     },
     "waho-pubs": {
-      "checked": "2026-11-20T15:44:56+00:00",
+      "checked": "2026-11-21T14:55:35+00:00",
       "etag": null,
       "last_modified": null
     },
     "who-afro-rc": {
-      "checked": "2026-11-20T15:45:01+00:00",
-      "etag": "\"1795187120\"",
-      "last_modified": "Fri, 20 Nov 2026 15:05:20 GMT"
+      "checked": "2026-11-21T14:55:41+00:00",
+      "etag": "\"1795268879\"",
+      "last_modified": "Sat, 21 Nov 2026 13:47:59 GMT"
     },
     "who-gb": {
-      "checked": "2026-11-20T15:44:59+00:00",
-      "etag": "\"80dedd1ad878dd1:0\"",
-      "last_modified": "Fri, 20 Nov 2026 10:15:45 GMT"
+      "checked": "2026-11-21T14:55:38+00:00",
+      "etag": "\"807422ac1b79dd1:0\"",
+      "last_modified": "Fri, 20 Nov 2026 18:19:25 GMT"
     }
   },
   "seen": {
@@ -208,6 +208,10 @@
     "11a3a983e5cee76f": {
       "first_seen": "2026-11-16",
       "url": "https://www.wahooas.org/web-ooas/publication/governance-model-lassa-fever-and-emerging-infectious-diseases-irrua-institute"
+    },
+    "12402821a2ce2127": {
+      "first_seen": "2026-11-21",
+      "url": "https://khub.africacdc.org/browse/authors"
     },
     "12d50857e756cd3b": {
       "first_seen": "2026-11-15",
@@ -372,6 +376,10 @@
     "3c5655fca1fdec2a": {
       "first_seen": "2026-11-15",
       "url": "https://africacdc.org/news-item/africa-cdc-supports-the-auc-chairpersons-call-for-the-immediate-and-unconditional-lifting-of-unilateral-sanctions-against-zimbabwe/"
+    },
+    "3cb497b0055bc236": {
+      "first_seen": "2026-11-21",
+      "url": "https://au.int/en/pressreleases/20261121/auc-chairperson-pays-tribute-he-phumzile-mlambo-ngcuka"
     },
     "3ce76e025e045c02": {
       "first_seen": "2026-11-15",
@@ -961,6 +969,14 @@
       "first_seen": "2026-11-15",
       "url": "https://www.afro.who.int/sites/default/files/WHO%20Regional%20committee/Guide%20for%20MS%20and%20Participants%20-%20EN_Final.pdf"
     },
+    "ae26ed11d5aacb3d": {
+      "first_seen": "2026-11-21",
+      "url": "https://au.int/en/speeches/20261117/statement-harsen-nyambe-nyambe-director-sustainable-environment-and-blue-economy"
+    },
+    "afb41a57d8500bc1": {
+      "first_seen": "2026-11-21",
+      "url": "https://africacdc.org/news-item/from-leadership-to-action-advancing-nigerias-local-vaccine-research-and-manufacturing-capacity/"
+    },
     "b086a98457adc40b": {
       "first_seen": "2026-11-15",
       "url": "https://ecosocc.au.int/en/news/updates/2026-02-18/securing-sustainable-water-and-sanitation-africa"
@@ -1212,6 +1228,10 @@
     "e03781278d18525e": {
       "first_seen": "2026-11-19",
       "url": "https://www.ecowas.int/ecowas-standby-force-inspects-nigerian-units-and-assets-pledged-to-the-force/"
+    },
+    "e095ee02bee290a2": {
+      "first_seen": "2026-11-21",
+      "url": "https://au.int/en/pressreleases/20261121/deputy-chairperson-sixth-edition-aswan-forum-sustainable-peace"
     },
     "e11dbce331fc6d28": {
       "first_seen": "2026-11-15",
