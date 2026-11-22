@@ -1,67 +1,67 @@
 {
   "http": {
     "africacdc-items": {
-      "checked": "2026-11-21T14:55:09+00:00",
+      "checked": "2026-11-22T14:52:37+00:00",
       "etag": null,
       "last_modified": null
     },
     "africacdc-khub": {
-      "checked": "2026-11-21T14:55:17+00:00",
+      "checked": "2026-11-22T14:52:46+00:00",
       "etag": null,
       "last_modified": null
     },
     "africacdc-news": {
-      "checked": "2026-11-21T14:55:06+00:00",
+      "checked": "2026-11-22T14:52:33+00:00",
       "etag": null,
       "last_modified": null
     },
     "africacdc-youth": {
-      "checked": "2026-11-21T14:55:22+00:00",
+      "checked": "2026-11-22T14:52:50+00:00",
       "etag": null,
       "last_modified": null
     },
     "au-decisions": {
-      "checked": "2026-11-21T14:54:55+00:00",
+      "checked": "2026-11-22T14:52:21+00:00",
       "etag": null,
-      "last_modified": "Sat, 21 Nov 2026 14:54:54 GMT"
+      "last_modified": "Sun, 22 Nov 2026 14:52:20 GMT"
     },
     "au-documents": {
-      "checked": "2026-11-21T14:55:00+00:00",
+      "checked": "2026-11-22T14:52:27+00:00",
       "etag": null,
-      "last_modified": "Sat, 21 Nov 2026 14:51:25 GMT"
+      "last_modified": "Sun, 22 Nov 2026 14:52:26 GMT"
     },
     "au-press": {
-      "checked": "2026-11-21T14:54:52+00:00",
+      "checked": "2026-11-22T14:52:18+00:00",
       "etag": null,
-      "last_modified": "Sat, 21 Nov 2026 14:46:12 GMT"
+      "last_modified": "Sun, 22 Nov 2026 14:49:09 GMT"
     },
     "cphia": {
-      "checked": "2026-11-21T14:55:25+00:00",
+      "checked": "2026-11-22T14:52:55+00:00",
       "etag": null,
       "last_modified": null
     },
     "ecosocc": {
-      "checked": "2026-11-21T14:55:02+00:00",
+      "checked": "2026-11-22T14:52:30+00:00",
       "etag": null,
       "last_modified": null
     },
     "ecowas-news": {
-      "checked": "2026-11-21T14:55:30+00:00",
+      "checked": "2026-11-22T14:52:59+00:00",
       "etag": null,
       "last_modified": null
     },
     "ndhi": {
-      "checked": "2026-11-17T16:28:31+00:00",
-      "etag": "W/\"19c9f79b0aa9ebc63cfc5c7017a521b4\"",
+      "checked": "2026-11-22T14:53:23+00:00",
+      "etag": "W/\"b82f83c5d885b24b789d1c2a0c4d6d9b\"",
       "last_modified": null
     },
     "smart-africa": {
-      "checked": "2026-11-21T14:55:49+00:00",
+      "checked": "2026-11-22T14:53:18+00:00",
       "etag": null,
       "last_modified": null
     },
     "waho-pubs": {
-      "checked": "2026-11-21T14:55:35+00:00",
+      "checked": "2026-11-22T14:53:04+00:00",
       "etag": null,
       "last_modified": null
     },
@@ -472,6 +472,10 @@
     "4c6597355a9867bf": {
       "first_seen": "2026-11-17",
       "url": "https://ecosocc.au.int/en/node/571"
+    },
+    "4c70e76968f92e14": {
+      "first_seen": "2026-11-22",
+      "url": "https://au.int/en/pressreleases/20261122/auc-chairperson-congratulates-ethiopia-its-election-icao-council"
     },
     "4d164d0865f34a96": {
       "first_seen": "2026-11-15",
@@ -1108,6 +1112,10 @@
     "c9d6330bc1cb8059": {
       "first_seen": "2026-11-16",
       "url": "https://au.int/en/speeches/20261112/statement-auc-commissioner-arbe-high-level-segment-africa-day-cop31"
+    },
+    "ca019ad10213d249": {
+      "first_seen": "2026-11-22",
+      "url": "https://khub.africacdc.org/browse/authors"
     },
     "cada300b110b1e38": {
       "first_seen": "2026-11-15",
