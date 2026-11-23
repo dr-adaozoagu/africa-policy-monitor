@@ -1,52 +1,52 @@
 {
   "http": {
     "africacdc-items": {
-      "checked": "2026-11-22T14:52:37+00:00",
+      "checked": "2026-11-23T18:42:45+00:00",
       "etag": null,
       "last_modified": null
     },
     "africacdc-khub": {
-      "checked": "2026-11-22T14:52:46+00:00",
+      "checked": "2026-11-23T18:42:54+00:00",
       "etag": null,
       "last_modified": null
     },
     "africacdc-news": {
-      "checked": "2026-11-22T14:52:33+00:00",
+      "checked": "2026-11-23T18:42:42+00:00",
       "etag": null,
       "last_modified": null
     },
     "africacdc-youth": {
-      "checked": "2026-11-22T14:52:50+00:00",
+      "checked": "2026-11-23T18:42:58+00:00",
       "etag": null,
       "last_modified": null
     },
     "au-decisions": {
-      "checked": "2026-11-22T14:52:21+00:00",
+      "checked": "2026-11-23T18:42:30+00:00",
       "etag": null,
-      "last_modified": "Sun, 22 Nov 2026 14:52:20 GMT"
+      "last_modified": "Mon, 23 Nov 2026 18:37:11 GMT"
     },
     "au-documents": {
-      "checked": "2026-11-22T14:52:27+00:00",
+      "checked": "2026-11-23T18:42:35+00:00",
       "etag": null,
-      "last_modified": "Sun, 22 Nov 2026 14:52:26 GMT"
+      "last_modified": "Mon, 23 Nov 2026 18:39:12 GMT"
     },
     "au-press": {
-      "checked": "2026-11-22T14:52:18+00:00",
+      "checked": "2026-11-23T18:42:28+00:00",
       "etag": null,
-      "last_modified": "Sun, 22 Nov 2026 14:49:09 GMT"
+      "last_modified": "Mon, 23 Nov 2026 18:31:03 GMT"
     },
     "cphia": {
-      "checked": "2026-11-22T14:52:55+00:00",
+      "checked": "2026-11-23T18:43:02+00:00",
       "etag": null,
       "last_modified": null
     },
     "ecosocc": {
-      "checked": "2026-11-22T14:52:30+00:00",
+      "checked": "2026-11-23T18:42:38+00:00",
       "etag": null,
       "last_modified": null
     },
     "ecowas-news": {
-      "checked": "2026-11-22T14:52:59+00:00",
+      "checked": "2026-11-23T18:43:06+00:00",
       "etag": null,
       "last_modified": null
     },
@@ -56,24 +56,24 @@
       "last_modified": null
     },
     "smart-africa": {
-      "checked": "2026-11-22T14:53:18+00:00",
+      "checked": "2026-11-23T18:43:29+00:00",
       "etag": null,
       "last_modified": null
     },
     "waho-pubs": {
-      "checked": "2026-11-22T14:53:04+00:00",
+      "checked": "2026-11-23T18:43:12+00:00",
       "etag": null,
       "last_modified": null
     },
     "who-afro-rc": {
-      "checked": "2026-11-21T14:55:41+00:00",
-      "etag": "\"1795268879\"",
-      "last_modified": "Sat, 21 Nov 2026 13:47:59 GMT"
+      "checked": "2026-11-23T18:43:18+00:00",
+      "etag": "\"1795456954\"",
+      "last_modified": "Mon, 23 Nov 2026 18:02:34 GMT"
     },
     "who-gb": {
-      "checked": "2026-11-21T14:55:38+00:00",
-      "etag": "\"807422ac1b79dd1:0\"",
-      "last_modified": "Fri, 20 Nov 2026 18:19:25 GMT"
+      "checked": "2026-11-23T18:43:15+00:00",
+      "etag": "\"808daf353a7bdd1:0\"",
+      "last_modified": "Mon, 23 Nov 2026 11:03:03 GMT"
     }
   },
   "seen": {
@@ -112,6 +112,10 @@
     "038210533f7077e6": {
       "first_seen": "2026-11-16",
       "url": "https://www.ecowas.int/development-partners-reiterate-their-commitment-to-continue-collaborating-with-ecowas-and-ecreee/"
+    },
+    "042c2f8b5dcb723c": {
+      "first_seen": "2026-11-23",
+      "url": "https://au.int/en/speeches/20261119/statement-he-silvia-paula-valentim-lutucuta-angolas-minister-health"
     },
     "055851edfd7fd243": {
       "first_seen": "2026-11-16",
@@ -177,6 +181,10 @@
       "first_seen": "2026-11-16",
       "url": "https://au.int/en/pressreleases/20261116/african-union-convene-inaugural-general-assembly-african-asset-recovery"
     },
+    "0e5ea84b103b27fc": {
+      "first_seen": "2026-11-23",
+      "url": "https://khub.africacdc.org/records/resource/continental-public-health-knowledge-translation-guidelines"
+    },
     "0ea56f4e00bc95dd": {
       "first_seen": "2026-11-20",
       "url": "https://www.wahooas.org/web-ooas/news/waho-supports-training-institutions-implementing-ecowas-curricula-herbal-and-traditional"
@@ -225,6 +233,10 @@
       "first_seen": "2026-11-15",
       "url": "https://ecosocc.au.int/en/node/571"
     },
+    "140d2c03588cc9d7": {
+      "first_seen": "2026-11-23",
+      "url": "https://au.int/en/pressreleases/20261120/cameroon-au-cieffa-concludes-field-visit-africaeducatesher-campaign"
+    },
     "144b2c94b1655ad4": {
       "first_seen": "2026-11-15",
       "url": "https://apps.who.int/gb/ebwha/pdf_files/EB160/B160_POW1_en.pdf"
@@ -236,6 +248,10 @@
     "16fbddc3da717f54": {
       "first_seen": "2026-11-17",
       "url": "https://ecosocc.au.int/en/ecf"
+    },
+    "180a52a35eaf0bd1": {
+      "first_seen": "2026-11-23",
+      "url": "https://au.int/en/pressreleases/20261123/afrec-supports-malawi-turn-electricity-grid-loss-assessments-investment"
     },
     "18ea3a8ee69a288e": {
       "first_seen": "2026-11-15",
@@ -272,6 +288,10 @@
     "22f65dbae7dadd95": {
       "first_seen": "2026-11-15",
       "url": "https://au.int/en/decisions/african-leaders-nairobi-declaration-climate-change-and-call-action-preamble"
+    },
+    "23fc93bd198ce4ec": {
+      "first_seen": "2026-11-23",
+      "url": "https://khub.africacdc.org/browse/authors"
     },
     "251ab2438ec8d72b": {
       "first_seen": "2026-11-15",
@@ -316,6 +336,10 @@
     "2d1175d7fb91ad88": {
       "first_seen": "2026-11-15",
       "url": "https://www.wahooas.org/web-ooas/video-library/waho-convenes-technical-session-regional-community-health-policy-cotonou-23-march"
+    },
+    "3036f2f50458ef49": {
+      "first_seen": "2026-11-23",
+      "url": "https://au.int/en/newsevents/20261123/15th-teacher-policy-dialogue-forum"
     },
     "31cf23d4647d90e3": {
       "first_seen": "2026-11-18",
@@ -645,6 +669,10 @@
       "first_seen": "2026-11-15",
       "url": "https://extranet.who.int/nonstateactorsstatements/"
     },
+    "6d60026bb2412fdb": {
+      "first_seen": "2026-11-23",
+      "url": "https://africacdc.org/news-item/one-in-six-pregnancies-is-to-an-adolescent-girl-yet-only-one-health-facility-in-eight-offers-services-built-for-young-people-new-africa-cdc-report/"
+    },
     "6d91c97dd74c1b74": {
       "first_seen": "2026-11-15",
       "url": "https://ecosocc.au.int/en/article/remittances-investment"
@@ -761,6 +789,10 @@
       "first_seen": "2026-11-17",
       "url": "https://ecosocc.au.int/index.php/en/news/updates/2026-03-12/harvard-africa-health-conference-2026"
     },
+    "82e60ab1fa14dfa3": {
+      "first_seen": "2026-11-23",
+      "url": "https://au.int/en/pressreleases/20261123/auc-chairperson-urges-africa-take-charge-its-health-future"
+    },
     "831d22c07a286b7b": {
       "first_seen": "2026-11-19",
       "url": "https://www.ecowas.int/ecowas-vice-president-calls-for-stronger-collaboration-with-ipcr-and-nigerian-institutions-on-early-warning-and-conflict-prevention/"
@@ -788,6 +820,10 @@
     "893be70c8c1e833d": {
       "first_seen": "2026-11-15",
       "url": "https://ecosocc.au.int/index.php/en/news/updates/2026-02-18/securing-sustainable-water-and-sanitation-africa"
+    },
+    "8baa78ab0927da2e": {
+      "first_seen": "2026-11-23",
+      "url": "https://au.int/en/newsevents/20261123/continental-tvet-pedagogical-and-leadership-skills-enhancement-training"
     },
     "8c05d0a82a74be5f": {
       "first_seen": "2026-11-15",
@@ -836,6 +872,10 @@
     "946f1b581ce46617": {
       "first_seen": "2026-11-15",
       "url": "https://www.afro.who.int/sites/default/files/RC%20docs/GRANTING%20ACCREDITATION%20TO%20REGIONAL%20NON-STATE%20ACTORS%20NOT%20IN%20OFFICIAL%20RELATIONS%20WITH%20W.pdf"
+    },
+    "960a23ef7984e371": {
+      "first_seen": "2026-11-23",
+      "url": "https://khub.africacdc.org/records/resource/continental-public-health-knowledge-translation-guidelines-1"
     },
     "963ee0aea0daedb0": {
       "first_seen": "2026-11-15",
@@ -1041,6 +1081,10 @@
       "first_seen": "2026-11-15",
       "url": "https://khub.africacdc.org/records/resource/africa-cdc-ebola-outbreaks-in-drc-and-uganda-weekly-brief-28th-may-2026"
     },
+    "bc00eb7161bd267d": {
+      "first_seen": "2026-11-23",
+      "url": "https://au.int/en/speeches/20261119/statement-minister-health-and-child-care-zimbabwe-6th-stc-health"
+    },
     "bc6168abbf566d10": {
       "first_seen": "2026-11-15",
       "url": "https://ecosocc.au.int/en/news"
@@ -1080,6 +1124,10 @@
     "c28045d8949e24cb": {
       "first_seen": "2026-11-15",
       "url": "https://smartafrica.org/anca-africas-gateway-to-cybersecurity/"
+    },
+    "c31541476e79d406": {
+      "first_seen": "2026-11-23",
+      "url": "https://au.int/en/newsevents/20261123/training-workshop-early-warning-systems-artificial-intelligence-ai-and"
     },
     "c61ed7ffa9bac49b": {
       "first_seen": "2026-11-15",

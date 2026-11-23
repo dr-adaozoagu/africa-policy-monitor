@@ -2,40 +2,40 @@
   "version": 1,
   "sources": {
     "https://au.int/en/happening": {
-      "last_success": "2026-11-22T14:53:25+00:00"
+      "last_success": "2026-11-23T18:43:37+00:00"
     },
     "https://africacdc.org/": {
-      "last_success": "2026-11-22T14:53:25+00:00"
+      "last_success": "2026-11-23T18:43:37+00:00"
     },
     "https://africacdc.org/event/": {
-      "last_success": "2026-11-22T14:53:25+00:00"
+      "last_success": "2026-11-23T18:43:37+00:00"
     },
     "https://www.ecowas.int/": {
-      "last_success": "2026-11-22T14:53:25+00:00"
+      "last_success": "2026-11-23T18:43:37+00:00"
     },
     "https://www.wahooas.org/": {
-      "last_success": "2026-11-22T14:53:25+00:00"
+      "last_success": "2026-11-23T18:43:37+00:00"
     },
     "https://www.eac.int/": {
-      "last_success": "2026-11-22T14:53:25+00:00"
+      "last_success": "2026-11-23T18:43:37+00:00"
     },
     "https://www.sadc.int/": {
-      "last_success": "2026-11-22T14:53:25+00:00"
+      "last_success": "2026-11-23T18:43:37+00:00"
     },
     "https://igad.int/": {
-      "last_success": "2026-11-22T14:53:25+00:00"
+      "last_success": "2026-11-23T18:43:37+00:00"
     },
     "https://ceeac-eccas.org/": {
-      "last_success": "2026-11-22T14:53:25+00:00"
+      "last_success": "2026-11-23T18:43:37+00:00"
     },
     "https://maghrebarabe.org/": {
       "last_success": "2026-11-17T16:28:33+00:00"
     },
     "https://www.afro.who.int/": {
-      "last_success": "2026-11-22T14:53:25+00:00"
+      "last_success": "2026-11-23T18:43:37+00:00"
     },
     "https://dthlab.org/": {
-      "last_success": "2026-11-22T14:53:25+00:00"
+      "last_success": "2026-11-23T18:43:37+00:00"
     }
   },
   "items": {
@@ -54,7 +54,7 @@
       "url": "https://www.wahooas.org/web-ooas/news/waho-moves-improve-access-quality-healthcare-through-better-health-workforce-training-west",
       "institution": "WAHO",
       "first_seen": "2026-11-15T21:20:53+00:00",
-      "last_seen": "2026-11-22T14:53:25+00:00",
+      "last_seen": "2026-11-23T18:43:37+00:00",
       "verification": "unverified title/index match"
     },
     "f9e0890c644441b158f2": {
@@ -63,7 +63,7 @@
       "url": "https://www.wahooas.org/web-ooas/news/waho-puts-safer-care-heart-regional-health-workforce-training",
       "institution": "WAHO",
       "first_seen": "2026-11-15T21:20:53+00:00",
-      "last_seen": "2026-11-22T14:53:25+00:00",
+      "last_seen": "2026-11-23T18:43:37+00:00",
       "verification": "unverified title/index match"
     },
     "bab7779b7776cb57cc0b": {
@@ -81,7 +81,7 @@
       "url": "https://www.wahooas.org/web-ooas/node/807",
       "institution": "WAHO",
       "first_seen": "2026-11-15T21:20:53+00:00",
-      "last_seen": "2026-11-22T14:53:25+00:00",
+      "last_seen": "2026-11-23T18:43:37+00:00",
       "verification": "unverified title/index match"
     },
     "2c5f9e396bdb5c980797": {
@@ -90,7 +90,7 @@
       "url": "https://www.afro.who.int/news/african-health-leaders-adopt-nairobi-action-agenda-turn-health-data-better-healthcare",
       "institution": "WHO AFRO",
       "first_seen": "2026-11-15T21:20:53+00:00",
-      "last_seen": "2026-11-22T14:53:25+00:00",
+      "last_seen": "2026-11-23T18:43:37+00:00",
       "verification": "unverified title/index match"
     },
     "f3a2ef2bba7c62f2762c": {
@@ -99,7 +99,7 @@
       "url": "https://dthlab.org/digital-and-data-governance",
       "institution": "DTH-Lab",
       "first_seen": "2026-11-15T21:20:53+00:00",
-      "last_seen": "2026-11-22T14:53:25+00:00",
+      "last_seen": "2026-11-23T18:43:37+00:00",
       "verification": "unverified title/index match"
     },
     "892cf3b10662686d3aaa": {
@@ -117,7 +117,25 @@
       "url": "https://www.ecowas.int/ecowas-vice-president-holds-high-level-consultations-with-un-deputy-secretary-general-to-advance-strategic-partnership",
       "institution": "ECOWAS",
       "first_seen": "2026-11-20T15:45:15+00:00",
-      "last_seen": "2026-11-22T14:53:25+00:00",
+      "last_seen": "2026-11-23T18:43:37+00:00",
+      "verification": "unverified title/index match"
+    },
+    "e5467593829d14a27473": {
+      "id": "e5467593829d14a27473",
+      "title": "Training Workshop on Early Warning Systems, Artificial Intelligence (AI)",
+      "url": "https://au.int/en/newsevents/20261123/training-workshop-early-warning-systems-artificial-intelligence-ai-and",
+      "institution": "AU",
+      "first_seen": "2026-11-23T18:43:37+00:00",
+      "last_seen": "2026-11-23T18:43:37+00:00",
+      "verification": "unverified title/index match"
+    },
+    "e9caf5f2e463a9726047": {
+      "id": "e9caf5f2e463a9726047",
+      "title": "EAC Advances Regional Framework for Trusted Cross-Border Data Flows and Data Protection",
+      "url": "https://www.eac.int/eadrip-news-updates/eardip-press-releases/3625-eac-advances-regional-framework-for-trusted-cross-border-data-flows-and-data-protection%20",
+      "institution": "EAC",
+      "first_seen": "2026-11-23T18:43:37+00:00",
+      "last_seen": "2026-11-23T18:43:37+00:00",
       "verification": "unverified title/index match"
     }
   }
