@@ -1,14 +1,12 @@
-# Index discovery scan — 2026-11-26T17:18:59+00:00
+# Index discovery scan — 2026-11-27T16:59:06+00:00
 
 Candidates require primary-page verification. Newly discovered does not mean newly published. Retitled does not mean substantively revised.
 
 ## Candidates
-
-- WHO AFRO — Ghana validates new Health Data and Health Records Strategy and Operational Guidelines to strengthen patient data protection and security (newly discovered candidate)
-  https://www.afro.who.int/countries/ghana/news/ghana-validates-new-health-data-and-health-records-strategy-and-operational-guidelines-strengthen
+No new or retitled matching links detected on successfully checked, previously baselined indexes. This does not establish absence of policy developments.
 
 ## Coverage
-11/13 sources fetched; 0 new baselines.
+12/13 sources fetched; 0 new baselines.
 
 - AU: ok; 0 matching links. 
 - Africa CDC: ok; 0 matching links. 
@@ -20,6 +18,6 @@ Candidates require primary-page verification. Newly discovered does not mean new
 - COMESA: error; 0 matching links. ValueError: possible access challenge; manual review needed
 - IGAD: ok; 0 matching links. 
 - ECCAS: ok; 0 matching links. 
-- UMA: error; 0 matching links. URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>
+- UMA: ok; 0 matching links. 
 - WHO AFRO: ok; 1 matching links. 
 - DTH-Lab: ok; 1 matching links. 
